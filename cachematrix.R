@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Two functions to create a matrix inversion and cache the results
+## for optimised speed.
 
 ## Write a short comment describing this function
 
